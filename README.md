@@ -1,5 +1,3 @@
-# PAGINA-WEB-SICUREZZA
-
 # Progetto Web – Sicurezza sul Lavoro
 
 ## Descrizione
